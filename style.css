@@ -362,6 +362,8 @@ display: flex;
         z-index: 30;
         justify-content: space-between;
         align-items: center;
+        margin: 0;
+        padding:0 10px;
     }
 
     .navbar-menu.show{
